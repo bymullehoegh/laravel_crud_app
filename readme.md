@@ -10,7 +10,7 @@ Tutorial credit: http://bishrulhaq.com/posts/crud-in-laravel
 - Edit the .env file with relevant database credentials.
 - Run 'php artisan migrate'
 - Run php artisan serve
-- Enter the http://127.0.0.1:8000/ in your browser (check the last 4 numbers)
+- Enter the http://127.0.0.1:8000/ in your browser
 
 ## Files: database file. 
             laravel_crud_sql inside the root folder.
