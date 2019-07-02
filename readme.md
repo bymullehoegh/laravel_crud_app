@@ -4,7 +4,8 @@
 
 Laravel CRUD application
 Create, Read, Update, Delete application, made with laravel. 
-Tutorial credit: http://bishrulhaq.com/posts/crud-in-laravel
+
+TUTORIAL CREDIT: http://bishrulhaq.com/posts/crud-in-laravel
 
         Run Compser Update
         Edit the .env file with relevant database credentials.
